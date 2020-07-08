@@ -65,6 +65,8 @@
   <ItemGroup>
     <Compile Include="Assets\script\CameraFollow.cs" />
     <Compile Include="Assets\script\PlayerMovement.cs" />
+    <Compile Include="Assets\script\SnakePatrol.cs" />
+    <Compile Include="Assets\script\WeakSpot.cs" />
     <Compile Include="Assets\scriptTest.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
