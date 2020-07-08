@@ -64,6 +64,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\script\CameraFollow.cs" />
+    <Compile Include="Assets\script\HealthBar.cs" />
+    <Compile Include="Assets\script\PlayerHealth.cs" />
     <Compile Include="Assets\script\PlayerMovement.cs" />
     <Compile Include="Assets\script\SnakePatrol.cs" />
     <Compile Include="Assets\script\WeakSpot.cs" />
